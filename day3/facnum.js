@@ -19,3 +19,5 @@ let num = 65;
 
 for (j = 1; j <= num; j++)
   console.log(` ${j} = ${isPrime(j)}`);
+
+//somechanges
